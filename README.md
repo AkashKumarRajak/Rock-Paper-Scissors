@@ -6,13 +6,13 @@ A simple and interactive Rock, Paper, Scissors game built using HTML, CSS, and J
 <br>
 1. Responsive design with hover animations and effects for better interactivity.
 <br>
-- Tracks the scores for both the player and the computer.
+2. Tracks the scores for both the player and the computer.
 <br>
-2. Displays messages for win, loss, or draw.
+3. Displays messages for win, loss, or draw.
 <br>
-3. Simple, clean UI with fluid transitions and animations.
+4. Simple, clean UI with fluid transitions and animations.
 <br>
-4. Random computer choices generated for each round.
+5. Random computer choices generated for each round.
 <br>
 <h2>How to Play</h2>
 <br>
@@ -32,4 +32,5 @@ CSS3: Styling, animations, and hover effects for interactivity.
 <br>
 JavaScript: Game logic, event handling, and score tracking.
 <br>
-Rock Paper Scissors : 
+Rock Paper Scissors : [Rock Paper Scissors Game](https://rock-paper-scissors-three-ecru.vercel.app/)
+
